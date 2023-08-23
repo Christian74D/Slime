@@ -6,6 +6,9 @@ The algorithm uses principles inspired by cellular automata to replicate the gro
 Platform : Python
 Packages : Pygame
 
+![image](https://github.com/Christian74D/Slime/assets/112863270/4b614ab9-d7ce-4689-9cb8-3f689ba582ed)
+
+
 Slime mold are interesting organisms which spread and grow to connect foods, and optimise its branches to find optimal path.
 This is achieved mainly through first spreading and making the most rewarding connections stronger. Then pulsations go through the body of the slime, which further optimises the path through an intresting process, wich is visualised using the code.
 
